@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.timer-content{
+  display: flex;
+  margin:50px;
+  justify-content: center
+}
+
+.timer-div{
+  margin-left: 15px
+}
+.timer-div h1{
+  font-size: 3em
+}
+.timer-div p{
+  color:gray
+}
